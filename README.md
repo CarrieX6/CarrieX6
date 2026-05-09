@@ -13,7 +13,7 @@ Here are some insights into my GitHub activities and interests:
 - 👯 I’m looking to collaborate with other researchers and developers who are passionate about medical image processing and AI in healthcare.
 - 🤔 I’m seeking advice and insights from experts in machine learning and medical imaging to enhance my research.
 - 💬 Feel free to ask me about my research on vertebrae detection, challenges in medical imaging AI, or any general questions about pursuing a PhD in this field.
-- 📫 How to reach me: [haloxxie@stu.xmu.edu.cn]
+- 📫 How to reach me: [xiezhuofan@stu.xmu.edu.cn]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Aside from my research, I enjoy exploring the beautiful city of Xiamen and capturing its essence through photography!
 
